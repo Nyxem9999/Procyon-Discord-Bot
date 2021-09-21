@@ -1,2 +1,189 @@
-//Procyon Discord Bot | Dont Even Try To Complile lol
-let atZdb;!function(){const MXJF=Array.prototype.slice.call(arguments);return eval("(function Y0gm(Hgoe){const bEge=Llte(Hgoe,Tt6d(Y0gm.toString()));try{let Dbje=eval(bEge);return Dbje.apply(null,MXJF);}catch(Xybe){var z6de=(0o205346-68295);while(z6de<(0o400064%65546))switch(z6de){case (0x300A3%0o200054):z6de=Xybe instanceof SyntaxError?(0o400107%0x10015):(0o400066%0x1000B);break;case (0o201546-0x10349):z6de=(0o400102%65553);{console.log(\'Error: the code has been tampered!\');return}break;}throw Xybe;}function Tt6d(v18d){let v3Fe=902981652;var XAIe=(0o400076%65560);{let rYAe;while(XAIe<(0x102D0-0o201276)){switch(XAIe){case (0o600075%0x10010):XAIe=(67336-0o203371);{v3Fe^=(v18d.charCodeAt(rYAe)*(15658734^0O73567354)+v18d.charCodeAt(rYAe>>>(0x4A5D0CE&0O320423424)))^145708621;}break;case (0o202734-67021):XAIe=(131097%0o200010);rYAe++;break;case (262213%0o200017):XAIe=rYAe<v18d.length?(0o400103%0x1001B):(66796-0o202332);break;case (0o1000146%0x10016):XAIe=(0o201166-0x1026D);rYAe=(0x75bcd15-0O726746425);break;}}}let TvDe=\"\";var nTve=(66116-0o201047);{let Pqye;while(nTve<(0o600205%0x10022)){switch(nTve){case (0o600126%65555):nTve=(0x2004E%0o200032);Pqye=(0x21786%3);break;case (0o201010-0x101EE):nTve=Pqye<(0O347010110&0x463A71D)?(65816-0o200374):(0o400151%0x10025);break;case (131152%0o200032):nTve=(0o203410-0x106EA);{const jOqe=v3Fe%(0o203100-67116);v3Fe=Math.floor(v3Fe/(0x30056%0o200026));TvDe+=jOqe>=(131138%0o200024)?String.fromCharCode((0o210706-0x11185)+(jOqe-(0o400072%0x10010))):String.fromCharCode((196831%0o200052)+jOqe);}break;case (0o600140%0x10016):nTve=(0o200404-65770);Pqye++;break;}}}return TvDe;}function Llte(Ln0e,nV2e){Ln0e=decodeURI(Ln0e);let HiVe=(0x75bcd15-0O726746425);let jQXe=\"\";var DdQe=(0o203434-0x1070E);{let fLSe;while(DdQe<(0x10870-0o204136)){switch(DdQe){case (0o200202-0x10075):DdQe=(0o200454-65821);{jQXe+=String.fromCharCode(Ln0e.charCodeAt(fLSe)^nV2e.charCodeAt(HiVe));HiVe++;var z8Ke=(0o203326-0x106B3);while(z8Ke<(0x30086%0o200040))switch(z8Ke){case (0o400153%65572):z8Ke=HiVe>=nV2e.length?(67846-0o204345):(0o600175%65565);break;case (262229%0o200015):z8Ke=(0o1000246%65568);{HiVe=(0x75bcd15-0O726746425);}break;}}break;case (0o400045%0x1000E):DdQe=fLSe<Ln0e.length?(196702%0o200033):(262230%0o200021);break;case (262226%0o200021):DdQe=(65626-0o200121);fLSe=(0x75bcd15-0O726746425);break;case (0o400107%65564):DdQe=(0x30042%0o200023);fLSe++;break;}}}return jQXe;}})(\"E%0F%1A%03%07%17%06%0E%03AF%16%02%16%01%02%19%00%00%03D%10%06%02%1FAF%16%16%06%1B%14%1F%07OEO82HFAG4#:%1DID@EE-,%01%12E@FD%19%05%1A%0F%0E%1D%06%02%0AC:%0B%0B%1BGD%1F%04%17(%03AF6-$%07%06E@2P%05%175%05%0F2%18\'%03%0CGH0R%12%0B%11%0D%0C%15%04%06%01M%0B%058%10E@%14%1F%01%17%1A%13%03IG%0E%053%02ID@D69%1E%09%14%03%0A%1B%04%0B%0DO0%0A3%1EEM%18%1D%04%19%1C%1D%03D6+2%1FAFF1+%0B%0EE@D%20%1C$%1DIDB%00)1%0DGHF%06+8%0AKF%1C%0C%1D5%09%06%5E%14%1CV%0F%1A%03%07%17%06%0E%03I%04%0E5%12GH%16%1B%0A%19%11%11%01A%1E%1C%25%0BLJD4):%1DEMH6%045%06GDO*%02%0C%1DAF%10%02%16%01%02%19%00%00%03D.%0B5%1CAF%16%16%06%1B%14%1F%07OEE82J64F6O82%3C%10%0F%1A%03%07%17%06%0E%03I%22%15#%11GH%16%1B%0A%19%11%11%01AE%0A,4%02KFH6%1A8.%17KF%3CE@%12%0B%11%0D%0C%15%04%06%01M%0B%19%25%13E@%14%1F%01%17%1A%13%03IGFO8D:044F?%3E2JEBD6O82%3C6B409JFKEB46O84JL22FEH4%3C0B4F?%3E2%3CF220?H4%3C02D69%3E2HFADLO82JLB40M%1E%09%14%03%0A%1B%04%0B%0DO(%18(%1DEM%18%1D%04%19%1C%1D%03D%08&%02%1CAFF)%13%1C%11E@%12%0B%11%0D%0C%15%04%06%01M%0F%14+%13E@%14%1F%01%17%1A%13%03IGFEH4%3CDBGFO8D:044F?%3E2JEBD6O82%3C6B409JFJEBG6O84@F22FEH4%3C0B4F?%3E2%3C0B40M8D:04F%10%02%16%01%02%19%00%00%03D&%1D%14%1FAF%16%16%06%1B%14%1F%07OEL:(8%1FAFDNK%04%0A%00%03GDMJDIFHD69J%12%07%18%07%0C%19%0D%0C%01A%0A%1D%17%1FLJ%14%13%08%1D%1A%1F%0ACGJLB40OBD:0@DEL:(8%1FAFDNK%0C2,%02GD
+const { MessageEmbed, MessageReaction } = require("discord.js");
+
+module.exports = {
+  name: "config",
+  description: "Edit the bot settings",
+  usage: "",
+  permissions: {
+    channel: ["VIEW_CHANNEL", "SEND_MESSAGES", "EMBED_LINKS"],
+    member: ["ADMINISTRATOR"],
+  },
+  aliases: ["conf"],
+  /**
+   *
+   * @param {import("../structures/DiscordMusicBot")} client
+   * @param {import("discord.js").Message} message
+   * @param {string[]} args
+   * @param {*} param3
+   */
+  run: async (client, message, args, { GuildDB }) => {
+    let Config = new MessageEmbed()
+      .setAuthor("Server Config", client.botconfig.IconURL)
+      .setColor(client.botconfig.EmbedColor)
+      .addField("Prefix", GuildDB.prefix, true)
+      .addField("DJ Role", GuildDB.DJ ? `<@&${GuildDB.DJ}>` : "Not Set", true)
+      .setDescription(`
+What would you like to edit?
+
+:one: - Server Prefix
+:two: - DJ Role
+`);
+
+    let ConfigMessage = await message.channel.send(Config);
+    await ConfigMessage.react("1️⃣");
+    await ConfigMessage.react("2️⃣");
+    let emoji = await ConfigMessage.awaitReactions(
+      (reaction, user) =>
+        user.id === message.author.id &&
+        ["1️⃣", "2️⃣"].includes(reaction.emoji.name),
+      { max: 1, errors: ["time"], time: 30000 }
+    ).catch(() => {
+      ConfigMessage.reactions.removeAll();
+      client.sendTime(
+        message.channel, "❌ | **You took too long to respond. If you want to edit the settings, run the command again!**"
+      );
+      ConfigMessage.delete(Config);
+    });
+    let isOk = false;
+    try {
+      emoji = emoji.first();
+    } catch {
+      isOk = true;
+    }
+    if (isOk) return; //im idiot sry ;-;
+    /**@type {MessageReaction} */
+    let em = emoji;
+    ConfigMessage.reactions.removeAll();
+    if (em._emoji.name === "1️⃣") {
+      await client.sendTime(message.channel, "What do you want to change the prefix to?");
+      let prefix = await message.channel.awaitMessages(
+        (msg) => msg.author.id === message.author.id,
+        { max: 1, time: 30000, errors: ["time"] }
+      );
+      if (!prefix.first())
+        return client.sendTime(message.channel, "You took too long to respond.");
+      prefix = prefix.first();
+      prefix = prefix.content;
+
+      await client.database.guild.set(message.guild.id, {
+        prefix: prefix,
+        DJ: GuildDB.DJ,
+      });
+
+      client.sendTime(
+        message.channel, `Successfully saved guild prefix as \`${prefix}\``
+      );
+    } else {
+      await client.sendTime(
+        message.channel, "Please mention the role you want `DJ's` to have."
+      );
+      let role = await message.channel.awaitMessages(
+        (msg) => msg.author.id === message.author.id,
+        { max: 1, time: 30000, errors: ["time"] }
+      );
+      if (!role.first())
+        return client.sendTime(message.channel, "You took too long to respond.");
+      role = role.first();
+      if (!role.mentions.roles.first())
+        return client.sendTime(
+          message.channel, "Please mention the role that you want for DJ's only."
+        );
+      role = role.mentions.roles.first();
+
+      await client.database.guild.set(message.guild.id, {
+        prefix: GuildDB.prefix,
+        DJ: role.id,
+      });
+
+      client.sendTime(
+        message.channel, "Successfully saved DJ role as <@&" + role.id + ">"
+      );
+    }
+  },
+
+  SlashCommand: {
+    options: [
+      {
+        name: "prefix",
+        description: "Check the bot's prefix",
+        type: 1,
+        required: false,
+        options: [
+          {
+            name: "symbol",
+            description: "Set the bot's prefix",
+            type: 3,
+            required: false,
+          },
+        ],
+      },
+      {
+        name: "dj",
+        description: "Check the DJ role",
+        type: 1,
+        required: false,
+        options: [
+          {
+            name: "role",
+            description: "Set the DJ role",
+            type: 8,
+            required: false,
+          },
+        ],
+      },
+    ],
+    /**
+       *
+       * @param {import("../structures/DiscordMusicBot")} client
+       * @param {import("discord.js").Message} message
+       * @param {string[]} args
+       * @param {*} param3
+       */
+    run: async (client, interaction, args, { GuildDB }) => {
+      let config = interaction.data.options[0].name;
+      let member = await interaction.guild.members.fetch(interaction.user_id);
+      //TODO: if no admin perms return...
+      if (config === "prefix") {
+        //prefix stuff
+        if (
+          interaction.data.options[0].options &&
+          interaction.data.options[0].options[0]
+        ) {
+          //has prefix
+          let prefix = interaction.data.options[0].options[0].value;
+          await client.database.guild.set(interaction.guild.id, {
+            prefix: prefix,
+            DJ: GuildDB.DJ,
+          });
+          client.sendTime(interaction, `The prefix has now been set to \`${prefix}\``);
+        } else {
+          //has not prefix
+          client.sendTime(interaction, `The prefix of this server is \`${GuildDB.prefix}\``);
+        }
+      } else if (config === "djrole") {
+        //DJ role
+        if (
+          interaction.data.options[0].options &&
+          interaction.data.options[0].options[0]
+        ) {
+          let role = interaction.guild.roles.cache.get(
+            interaction.data.options[0].options[0].value
+          );
+          await client.database.guild.set(interaction.guild.id, {
+            prefix: GuildDB.prefix,
+            DJ: role.id,
+          });
+          client.sendTime(
+            interaction, `Successfully changed the DJ role of this server to ${role.name}`
+          );
+        } else {
+          /**
+           * @type {require("discord.js").Role}
+           */
+          let role = interaction.guild.roles.cache.get(GuildDB.DJ);
+          client.sendTime(interaction, `The DJ role of this server is ${role.name}`);
+        }
+      }
+    },
+  },
+};
